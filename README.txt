@@ -8,3 +8,4 @@ Approach
 
 Result
 - Pivotal outcome of the project revealed GM & Ford are strongly correlated in comparison to Tesla
+- Box Plots, KDE Bell Curve revealed High Sigma & Leptokurtic nature for Tesla, due to its EV focus 
